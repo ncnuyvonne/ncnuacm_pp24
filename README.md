@@ -1,5 +1,5 @@
 # ncnuacm_pp24
-Here are some easy mpi program.
+Here are some easy mpi programs.
 ## Test MPI program
 ```
 vim hello.c
